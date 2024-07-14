@@ -1,0 +1,6 @@
+inference
+pandas
+numpy
+base64
+tensorflow
+doctr
